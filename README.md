@@ -14,4 +14,7 @@ Rendering of the html/pdf files was done using the weasyprint engine, which requ
 
 
 Rendering was done from the command line, following the activation of the Python Environment with Quarto. Use this command:
-* quarto render cv.qmd -output-dir docs
+* quarto render index.qmd --output-dir docs
+
+Instructions on how to host Quarto documents on Github Pages:
+https://quarto.org/docs/publishing/github-pages.html#render-to-docs
