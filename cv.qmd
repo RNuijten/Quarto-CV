@@ -16,6 +16,9 @@ bibliography: bib.bib
 nocite: |
   @*
 format-links: [pdf]
+project:
+  type: website
+  output-dir: docs
 ---
 
 ::: {.print-only .contact-block}
