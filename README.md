@@ -11,7 +11,6 @@ Rendering of the html/pdf files was done using the weasyprint engine, which requ
 
 * quarto (installation instructions here: https://quarto.org/docs/download/)
 * weasyprint (installation instructions here: https://doc.courtbouillon.org/weasyprint/v52.5/install.html#windows)
-* weasytools (R installation command: devtools::install_github('RLesur/weasydoc'))
 
 
 Rendering was done from the command line, following the activation of the Python Environment with Quarto. Use this command:
