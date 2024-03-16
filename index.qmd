@@ -65,7 +65,7 @@ project:
   </tr>
   <tr>
     <td style="color: black;"><strong>Data Science</strong>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>Data visualization, predictive modelling, unsupervised learning, object detection, spatial pattern analysis, scripting in Python & R</td>
+    <td>Data visualization, predictive modelling, unsupervised learning, object detection, spatial pattern analysis, scripting in Python, R & SQL</td>
   </tr>
 </table>
 
@@ -99,16 +99,14 @@ project:
 </table>
 
 ### **Experience**
-**PhD -- Remote Sensing in Forestry** [*May 2019 --- June 2024*]{.cvdate} <br> UBC (Faculty of Forest Resources Management [*Vancouver (CA)*]{.cvloc}
+**PhD -- Remote Sensing in Forestry** [*May 2019 --- June 2024*]{.cvdate} <br> UBC (Faculty of Forest Resources Management) [*Vancouver (CA)*]{.cvloc}
 
--   Explored the capabilities, limitations, and opportunities of drone-based remote sensing in assessing ecosystem recovery, with a specific focus on digital aerial photogrammetry.
+-   Explored the capabilities, limitations, and opportunities of drone-based remote sensing in assessing ecosystem recovery, with a specific focus on digital aerial photogrammetry and vegetation.
+-   Worked in a top-tier, highly productive lab environment where I collaborated with other students and scientists, participated in various field sampling campaigns, and attended seminars.
 
 **Teaching Assistant** [*June 2019 --- November 2022*]{.cvdate} <br> UBC (Faculty of Forest Resources Management) [*Vancouver (CA)*]{.cvloc}
 
--   Developed labs for Applications in Data Science in Forest Resources (FRST 505).
--   Guest lectured in Geospatial Data Analysis with Python (GEM 530).
--   Supported graduate students in the MGEM program with research projects involving geospatial information.
--   Supervised exercises in Observing the Earth from Space (CONS 127) and Geospatial Data Analysis (GEM 530).
+-  Developed course materials, supported students with exercises, and facilitated research projects involving geospatial information in the following courses: Data Science in Forest Resources (FRST 505), Geospatial Data Analysis with Python (GEM 530), Observing the Earth from Space (CONS 127), and Project Proposal Development and Proof of Concept (FCOR 599).
 
 **Research Intern** [*September 2018 --- March 2019*]{.cvdate} <br> UBC (Faculty of Forest Resources Management) [*Vancouver (CA)*]{.cvloc}
 
@@ -120,7 +118,7 @@ project:
 
 **GIS Intern** [*November 2015 --- June 2016*]{.cvdate} <br> SWECO (Team Geoweb) [*De Bilt (NL)*]{.cvloc}
 
--   Developed Geoweb (Geocortex Essentials) demo applications.
+-   Developed Geoweb (Geocortex Essentials) demo applications
 
 **Grocery Clerk** [*December 2010 --- October 2015*]{.cvdate} <br> Albert Heijn [*Bergen op Zoom (NL)*]{.cvloc}
 
