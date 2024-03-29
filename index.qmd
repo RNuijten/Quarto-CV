@@ -153,9 +153,9 @@ project:
 
 ### **Conferences and Seminar Experience**
 
--   Seminar Talk: [Surveying keystone plant communities and structures following ecological restoration using drone imagery]() (9 March 2023, Scion)
--   Conference Talk: [Mapping vegetation structure, following early regeneration in open boreal forests, using remotely piloted aerial systems (RPAS) based imaging](https://lcluc.umd.edu/sites/default/files/9th%20ForestSAT%202022%20Conference%20Berlin%2C%20Germany%20-%20ConfTool%20Pro%20Printout.pdf) (2 September 2022, ForestSAT)
--   Webinar Talk: [Monitoring environmental impacts through remote sensing: Innovations and advancements](https://www.cclmportal.ca/resource/cclm-webinar-monitoring-environmental-impacts-through-remote-sensing-innovations-and) (17 February 2022, Canadian Conservation and Land Management (CCLM) Knowledge Network)
+-   Seminar Talk: [Surveying keystone plant communities and structures following ecological restoration using drone imagery]() (9 March 2023, Scion, Rotorua, New Zealand)
+-   Conference Talk: [Mapping vegetation structure, following early regeneration in open boreal forests, using remotely piloted aerial systems (RPAS) based imaging](https://lcluc.umd.edu/sites/default/files/9th%20ForestSAT%202022%20Conference%20Berlin%2C%20Germany%20-%20ConfTool%20Pro%20Printout.pdf) (2 September 2022, ForestSAT, Berlin, Germany)
+-   Webinar Talk: [Monitoring environmental impacts through remote sensing: Innovations and advancements](https://www.cclmportal.ca/resource/cclm-webinar-monitoring-environmental-impacts-through-remote-sensing-innovations-and) (17 February 2022, Canadian Conservation and Land Management Knowledge Network, online)
 
 ### **Guides and Peer‑Reviewed Publications**
 
