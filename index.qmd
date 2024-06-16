@@ -99,7 +99,7 @@ project:
 </table>
 
 ### **Experience**
-**PhD -- Remote Sensing in Forestry** [*May 2019 --- June 2024*]{.cvdate} <br> UBC (Faculty of Forest Resources Management) [*Vancouver (CA)*]{.cvloc}
+**PhD -- Remote Sensing in Forestry** [*May 2019 --- May 2024*]{.cvdate} <br> UBC (Faculty of Forest Resources Management) [*Vancouver (CA)*]{.cvloc}
 
 -   Explored the capabilities, limitations, and opportunities of drone-based remote sensing in assessing ecosystem recovery, with a specific focus on digital aerial photogrammetry and vegetation.
 -   Worked in a top-tier, highly productive lab environment where I collaborated with other students and scientists, participated in various field sampling campaigns, and attended seminars.
@@ -146,7 +146,7 @@ project:
 :::
 
 ::: {.column width="40%"}
--   Hosted GIS Career Event for GIMA master program (*2016 --- 2017*)
+-   Co-organizer GIS Career Event for GIMA master program (*2016 --- 2017*)
 :::
 ::::
 
