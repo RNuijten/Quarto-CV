@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.551">
+<meta name="generator" content="quarto-1.5.45">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Rik J.G. Nuijten">
+<meta name="author" content="Rik JG Nuijten PhD">
 
 <title>Curriculum Vitae</title>
 <style>
@@ -93,7 +93,7 @@ div.csl-indent {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p><a href="https://www.linkedin.com/in/rik-nuijten/">Rik J.G. Nuijten</a> <a href="mailto:riknuijten@live.nl" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
+             <p><a href="https://www.linkedin.com/in/rik-nuijten/">Rik JG Nuijten PhD</a> <a href="mailto:riknuijten@live.nl" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
           </div>
   </div>
     
@@ -113,7 +113,7 @@ div.csl-indent {
 <img src="photo.png" alt="me" style="width: 175px; height: auto;">
 </td>
 <td style="border-bottom: 1px solid #36a7e9; vertical-align: middle; text-align: justify; margin: 0; padding: 0;">
-<span style="font-size: 2em; font-weight: 900; color: black; text-align: center; text-transform: capitalize; display: block;">Rik J.G. Nuijten</span> <br><img src="svg/email.svg" alt="Email" style="height:10px;"><a href="mailto:riknuijten@live.nl">riknuijten@live.nl</a> <span style="margin: 0 2px;">|</span> <img src="svg/phone.svg" alt="Phone" style="height:10px;"><a href="tel:+31655773010">+31-655773010</a> <span style="margin: 0 2px;">|</span> <img src="svg/linkedin.svg" alt="LinkedIn" style="height:10px;"><a href="https://www.linkedin.com/in/rik-nuijten/">rik-nuijten</a> <span style="margin: 0 2px;">|</span> <img src="svg/orcid.svg" alt="ORCID" style="height:10px;"><a href="https://orcid.org/0000-0003-3474-2224">0000-0003-3474-2224</a> <br><br><span style="color:#555555; display: block; margin: 0; padding: 0;">Over 5 years experience in drone-based remote sensing, machine learning and data fusion for the assessment and management of forest ecosystems. Produced related best practices guides and science that continues to be operationalized. Has instructed and created materials for students in post-secondary education related to geospatial data analysis and data science.</span>
+<span style="font-size: 2em; font-weight: 900; color: black; text-align: center; text-transform: capitalize; display: block;">Rik JG Nuijten PhD</span> <br><img src="svg/email.svg" alt="Email" style="height:10px;"><a href="mailto:riknuijten@live.nl">riknuijten@live.nl</a> <span style="margin: 0 2px;">|</span> <img src="svg/phone.svg" alt="Phone" style="height:10px;"><a href="tel:+31655773010">+31-655773010</a> <span style="margin: 0 2px;">|</span> <img src="svg/linkedin.svg" alt="LinkedIn" style="height:10px;"><a href="https://www.linkedin.com/in/rik-nuijten/">rik-nuijten</a> <span style="margin: 0 2px;">|</span> <img src="svg/orcid.svg" alt="ORCID" style="height:10px;"><a href="https://orcid.org/0000-0003-3474-2224">0000-0003-3474-2224</a> <br><br><span style="color:#555555; display: block; margin: 0; padding: 0;">Over 5 years experience in drone-based remote sensing, machine learning and data fusion for the assessment and management of forest ecosystems. Produced related best practices guides and science that continues to be operationalized. Has instructed and created materials for students in post-secondary education related to geospatial data analysis and data science.</span>
 </td>
 </tr>
 </tbody></table>
@@ -277,7 +277,7 @@ Nuijten, RJG, NC Coops, D Theberge, and CE Prescott. 2024. <span>“Estimation o
 Nuijten, RJG, NC Coops, C Watson, and D Theberge. 2021. <span>“Monitoring the Structure of Regenerating Vegetation Using Drone-Based Digital Aerial Photogrammetry.”</span> <em>Remote Sensing</em> 13 (10): 1942.
 </div>
 <div id="ref-nuijten_advances_2024" class="csl-entry" role="listitem">
-Nuijten, RJG, NC Coops, H Zerriffi, and D Theberge. 2024. <span>“Advances in Drone-Based Remote Sensing for Restoration Assessments: Information Uncertainty, Complexity, and Cost-Effectiveness.”</span> <em>Ecological Applications</em> In review.
+Nuijten, RJG, NC Coops, H Zerriffi, and D Theberge. 2024. <span>“Advances in Drone-Based Remote Sensing for Restoration Assessments: Information Uncertainty, Complexity, and Cost-Effectiveness.”</span> <em>Ecosphere</em> In review.
 </div>
 <div id="ref-nuijten_using_2019" class="csl-entry" role="listitem">
 Nuijten, RJG, L Kooistra, and GB De Deyn. 2019. <span>“Using Unmanned Aerial Systems (UAS) and Object-Based Image Analysis (OBIA) for Measuring Plant-Soil Feedback Effects on Crop Productivity.”</span> <em>Drones</em> 3 (3): 54.
@@ -326,18 +326,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -369,7 +358,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -377,7 +388,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
 author: 
-  name: "Rik J.G. Nuijten"
+  name: "Rik JG Nuijten PhD"
   email: "riknuijten@live.nl"
   phone: "+31 655773010"
   url: "https://www.linkedin.com/in/rik-nuijten/"
@@ -27,7 +27,7 @@ project:
       <img src="photo.png" alt="me" style="width: 175px; height: auto;"/>
     </td>
     <td style="border-bottom: 1px solid #36a7e9; vertical-align: middle; text-align: justify; margin: 0; padding: 0;">
-      <span style="font-size: 2em; font-weight: 900; color: black; text-align: center; text-transform: capitalize; display: block;">Rik J.G. Nuijten</span>
+      <span style="font-size: 2em; font-weight: 900; color: black; text-align: center; text-transform: capitalize; display: block;">Rik JG Nuijten PhD</span>
       <br><img src="svg/email.svg" alt="Email" style="height:10px;"/>[riknuijten@live.nl](mailto:riknuijten@live.nl)
       <span style="margin: 0 2px;">|</span>
       <img src="svg/phone.svg" alt="Phone" style="height:10px;"/>[+31-655773010](tel:+31655773010)
